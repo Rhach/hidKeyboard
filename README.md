@@ -1,5 +1,5 @@
 # hidKeyboard
-A generic script to make an arduino or attiny85 development board simulate a keyboard. Usefull for red teaming, penetration testing and... other activities.
+A generic script to make an arduino or attiny85 development board simulate a keyboard. Usefull for red teaming and penetration testing.
 
 Write your payload, compile it to your device, connect that device to the target's computer and then sit back and watch your script being executed Mr Robot style.
 
